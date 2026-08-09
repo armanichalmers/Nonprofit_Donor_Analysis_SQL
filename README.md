@@ -156,6 +156,8 @@ Based on the analysis, several opportunities were identified to strengthen fundr
 
 Tableau was used alongside SQL to visualize donor behavior and support the analysis.
 
+Selected Tableau visualizations can be viewed in the full project report below.
+
 Visualizations included:
 
 - Donation frequency
@@ -165,7 +167,9 @@ Visualizations included:
 - Donation value by gender and job field
 - Donation activity across professional segments
 
-<!-- Add Tableau dashboard link here if available -->
+These visualizations served as a supporting component of the analysis, while **SQL was the primary tool used to query, aggregate, join, and investigate the donor data**.
+
+Selected Tableau visualizations can be viewed in the full project report below.<!-- Add Tableau dashboard link here if available -->
 
 ---
 
