@@ -169,7 +169,7 @@ Visualizations included:
 
 These visualizations served as a supporting component of the analysis, while **SQL was the primary tool used to query, aggregate, join, and investigate the donor data**.
 
-Selected Tableau visualizations can be viewed in the full project report below.<!-- Add Tableau dashboard link here if available -->
+<!-- Add Tableau dashboard link here if available -->
 
 ---
 
