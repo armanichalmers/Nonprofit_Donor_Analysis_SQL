@@ -173,7 +173,7 @@ Visualizations included:
 
 The original project report contains the SQL queries, Tableau visualizations, detailed findings, and recommendations used throughout the analysis.
 
-📄 **[View the Full Donor Analysis Report](YOUR-GITHUB-PDF-LINK)**
+📄 **[View the Full Donor Analysis Report](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL/blob/main/EntryLevel_Data%20Analyst%202_%20Portfolio_SQL(1).pdf)**
 
 ---
 
