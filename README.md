@@ -52,14 +52,14 @@ Additional analysis explored which donor characteristics and geographic segments
 
 The analysis used two datasets:
 
-### EFO_Donation_Data
+### [`EFO_Donation_Data`](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL/blob/main/data/2.4-EFO_Donation_Data.sql)
 
 Contained donation-related information including:
 
 - Donation amount
 - Donation frequency
 
-### EFO_Donor_Data
+### [`EFO_Donor_Data`](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL/blob/main/data/2.6-EFO_Donor_Data.sql)
 
 Contained donor characteristics including:
 
